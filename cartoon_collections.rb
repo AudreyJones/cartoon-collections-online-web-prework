@@ -27,5 +27,4 @@ def find_the_cheese(array)
   # else
   #   return nil
   # end
-# binding.pry
 end
